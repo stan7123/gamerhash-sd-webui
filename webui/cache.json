@@ -1,0 +1,46 @@
+{
+    "safetensors-metadata": {
+        "checkpoint/v1-5-pruned-emaonly.safetensors": {
+            "mtime": 1701969329.5183103,
+            "value": {
+                "format": "pt"
+            }
+        },
+        "checkpoint/sd_xl_base_1.0.safetensors": {
+            "mtime": 1701809690.107677,
+            "value": {
+                "modelspec.sai_model_spec": "1.0.0",
+                "modelspec.architecture": "stable-diffusion-xl-v1-base",
+                "modelspec.implementation": "https://github.com/Stability-AI/generative-models",
+                "modelspec.title": "Stable Diffusion XL 1.0 Base",
+                "modelspec.author": "StabilityAI",
+                "modelspec.description": "SDXL 1.0 Base Model, compositional expert. SDXL, the most advanced development in the Stable Diffusion text-to-image suite of models. SDXL produces massively improved image and composition detail over its predecessors. The ability to generate hyper-realistic creations for films, television, music, and instructional videos, as well as offering advancements for design and industrial use, places SDXL at the forefront of real world applications for AI imagery.",
+                "modelspec.date": "2023-07-26",
+                "modelspec.resolution": "1024x1024",
+                "modelspec.prediction_type": "epsilon",
+                "modelspec.license": "CreativeML Open RAIL++-M License",
+                "modelspec.hash_sha256": "0xd7a9105a900fd52748f20725fe52fe52b507fd36bee4fc107b1550a26e6ee1d7"
+            }
+        },
+        "checkpoint/v1-5.safetensors": {
+            "mtime": 1701969329.5183103,
+            "value": {
+                "format": "pt"
+            }
+        }
+    },
+    "hashes": {
+        "checkpoint/v1-5-pruned-emaonly.safetensors": {
+            "mtime": 1701969329.5183103,
+            "sha256": "6ce0161689b3853acaa03779ec93eafe75a02f4ced659bee03f50797806fa2fa"
+        },
+        "checkpoint/sd_xl_base_1.0.safetensors": {
+            "mtime": 1701809690.107677,
+            "sha256": "31e35c80fc4829d14f90153f4c74cd59c90b779f6afe05a74cd6120b893f7e5b"
+        },
+        "checkpoint/v1-5.safetensors": {
+            "mtime": 1701969329.5183103,
+            "sha256": "6ce0161689b3853acaa03779ec93eafe75a02f4ced659bee03f50797806fa2fa"
+        }
+    }
+}
