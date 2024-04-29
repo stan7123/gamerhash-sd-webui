@@ -106,12 +106,12 @@ def webui():
         initialize_util.setup_middleware(app)
 
         progress.setup_progress_api(app)
-        ui.setup_ui_api(app)
+        # ui.setup_ui_api(app)
 
         if launch_api:
             create_api(app)
 
-        ui_extra_networks.add_pages_to_demo(app)
+        # ui_extra_networks.add_pages_to_demo(app)
 
         startup_timer.record("add APIs")
 
